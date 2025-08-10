@@ -22,7 +22,7 @@ This repo contains my personal notes, lab write-ups, and summaries of the TryHac
 ---
 
 ## 📂 Rooms Overview  
-1. [Offensive Security Intro](.https://tryhackme.com/room/offensivesecurityintro)  
+1. [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)  
 2. [Defensive Security Intro](./Defensive_Security_Intro)  
 3. [Careers in Cyber](./Careers_in_Cyber)  
 4. [What is Networking](./What_is_Networking)  
