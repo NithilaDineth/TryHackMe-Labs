@@ -23,14 +23,14 @@ This repo contains my personal notes, lab write-ups, and summaries of the TryHac
 
 ## 📂 Rooms Overview  
 1. [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)  
-2. [Defensive Security Intro](./Defensive_Security_Intro)  
-3. [Careers in Cyber](./Careers_in_Cyber)  
-4. [What is Networking](./What_is_Networking)  
-5. [Introductory Networking](./Introductory_Networking)  
-6. [Linux Fundamentals Part 1](./Linux_Fundamentals_Part1)  
-7. [OSINT - CTF Challenge](./OSINT_CTF)  
-8. [Pen Testing Fundamentals](./Pen_Testing_Fundamentals)  
-9. [NMAP Live Host Discovery](./NMAP_Live_Host_Discovery)  
+2. [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)  
+3. [Careers in Cyber](https://tryhackme.com/room/careersincyber)  
+4. [What is Networking](https://tryhackme.com/room/whatisnetworking)  
+5. [Introductory Networking](https://tryhackme.com/room/introtonetworking)  
+6. [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)  
+7. [OSINT - CTF Challenge](https://tryhackme.com/room/ohsint)  
+8. [Pen Testing Fundamentals](https://tryhackme.com/room/pentestingfundamentals)  
+9. [NMAP Live Host Discovery](https://tryhackme.com/room/nmap01)  
 
 ---
 
